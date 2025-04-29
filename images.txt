@@ -1,1 +1,1 @@
-wordpress:latest
+raesene/bwapp:latest
