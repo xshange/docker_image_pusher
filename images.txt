@@ -1,1 +1,2 @@
 raesene/bwapp:latest
+godoos/godoos:latest
